@@ -1,0 +1,4 @@
+id,name,email,signup_date,is_active,roles
+1,Ada Lovelace,ada@example.com,2025-09-01,true,admin;analyst
+2,Alan Turing,alan@example.com,2025-09-10,true,user
+3,Grace Hopper,grace@example.com,2025-09-15,false,user;moderator
