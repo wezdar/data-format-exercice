@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<users>
+  <user id="1">
+    <name>Ada Lovelace</name>
+    <email>ada@example.com</email>
+    <signup_date>2025-09-01</signup_date>
+    <is_active>true</is_active>
+    <roles>
+      <role>admin</role>
+      <role>analyst</role>
+    </roles>
+  </user>
+  <user id="2">
+    <name>Alan Turing</name>
+    <email>alan@example.com</email>
+    <signup_date>2025-09-10</signup_date>
+    <is_active>true</is_active>
+    <roles>
+      <role>user</role>
+    </roles>
+  </user>
+  <user id="3">
+    <name>Grace Hopper</name>
+    <email>grace@example.com</email>
+    <signup_date>2025-09-15</signup_date>
+    <is_active>false</is_active>
+    <roles>
+      <role>user</role>
+      <role>moderator</role>
+    </roles>
+  </user>
+</users>
